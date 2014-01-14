@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, S2p_androidActivity!</string>
+    <string name="app_name">S2p_android</string>
+    <string name="connect">Connect</string>
+    <string name="create">Creat ring</string>
+    <string name="connectLabel">Connect to existing ring</string>
+    <string name="createKey">Key</string>
+    <string name="createName">Name</string>
+    <string name="createPort">Port</string>
+
+</resources>
